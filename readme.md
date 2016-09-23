@@ -35,7 +35,7 @@ De vloot moet aan de volgende technische eisen voldoen:
 
 ###Bronnen
 ####HTML & CSS
-* [Hoe kan ik afbeeldingen laten drijven?](http://www.w3schools.com/cssref/pr_class_float.asp)
+* [Hoe kan ik afbeeldingen laten 'drijven' zodat de tekst er vanzelf omheen gaat?](http://www.w3schools.com/cssref/pr_class_float.asp)
 * [Hoe stel ik afstand buiten een element in?](http://www.w3schools.com/css/css_margin.asp)
 * [Hoe stel ik ruimte binnen een element in?](http://www.w3schools.com/css/css_padding.asp)
 * [Waar kan ik een unieke tekst genereren?](http://www.lipsum.com)
